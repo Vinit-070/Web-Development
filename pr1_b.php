@@ -6,6 +6,7 @@ $a = 7;
 $b = 11;
 echo "Before Swapping : a = ".$a."\n";
 echo "Before Swapping : b = ".$b."\n";
+echo "<br>";
 $temp = $a;
 $a = $b;
 $b = $temp;
