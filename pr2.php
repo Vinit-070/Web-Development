@@ -14,5 +14,5 @@ function sumArray($arr)
 
 $numbers = array(1, 2, 3, 4, 5);
 $sum = sumArray($numbers);
-echo "The sum of the numbers in array is: " . $sum;
+echo "The sum of the numbers in array is: ".$sum;
 ?>
