@@ -4,11 +4,11 @@
 <?php
 $a = 7;
 $b = 11;
-echo "Before Swapping : a = ".$a;
-echo "Before Swapping : b = ".$b;
+echo "Before Swapping : a = ".$a."\n";
+echo "Before Swapping : b = ".$b."\n";
 $temp = $a;
 $a = $b;
 $b = $temp;
-echo "After Swapping : a = ".$a;
-echo "After Swapping : b = ".$b;
+echo "After Swapping : a = ".$a."\n";
+echo "After Swapping : b = ".$b."\n";
 ?>
